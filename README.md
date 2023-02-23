@@ -1,6 +1,3 @@
-# 3D Boids
-
-
 <body>
 <h1>3D Boids</h1>
 <p>
